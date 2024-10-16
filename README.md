@@ -1,7 +1,7 @@
 # PiratedHeat
 
-# Game Version: v0.6.6.2 Milestone
-# Launcher Version: v2.0.0
+## Game Version: v0.6.6.2 Milestone
+## Launcher Version: v2.0.0
 
 Info: Pirated Heat Launcher is back! Same creator, github has been deleted, there is a new Youtube video on my account (Johnny on the Spot) to prove my authenticity.
 
