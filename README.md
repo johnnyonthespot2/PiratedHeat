@@ -5,6 +5,7 @@
 ## Game Version: v0.6.8.1 Test Version
 ## Website: https://piratedheat.top (back up online : 25/11/2024)
 ### This is not an executable launcher anymore, all files and mods are now directly downloadable from the website!
+Tutorial : https://www.youtube.com/watch?v=XjQ8wVl9imc
 
 Info: Pirated Heat Launcher is back! Same creator, github has been deleted, there is a new Youtube video on my account (Johnny on the Spot) to prove my authenticity.
 
