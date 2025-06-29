@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/johnnyonthespot2/PiratedHeat/blob/main/banner.png)
 
-## Game Version: v0.6.9.1 Milestone
+## Game Version: v0.7.5.2 Milestone
 ## Website: https://piratedheat.top
 Tutorial : https://www.youtube.com/watch?v=XjQ8wVl9imc
 
